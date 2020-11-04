@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/pkg
+/yarn.lock
+/package-lock.json
+/.idea
+
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
